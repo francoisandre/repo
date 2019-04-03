@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 03 12:24:22 CEST 2019
+common-libs-0.0.1-SNAPSHOT.jar>=
+common-libs-0.0.1-SNAPSHOT-sources.jar>=
+common-libs-0.0.1-SNAPSHOT.pom>=
